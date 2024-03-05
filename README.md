@@ -5,9 +5,6 @@ The Discord Stealer Most People Are Looking For
 
 Discord Pasword Token Grabber. 
 
-
-
-
 ## How to Use
 
 Very Simple to Use. If you don't know how to use it, follow the steps below.
