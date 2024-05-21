@@ -3,7 +3,7 @@ const os = require('os');
 const https = require('https');
 const querystring = require("querystring");
 const fs = require("fs");
-
+// Github: chavex777
 var config = {
     brand: "chavex777", // replace 
 
