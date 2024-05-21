@@ -7,7 +7,7 @@ using System.Net;
 using System.Security;
 using System.Security.Permissions;
 using System.Text;
-
+// Github: chavex777
 namespace DiscordStealer
 {
 	
